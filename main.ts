@@ -1,3 +1,4 @@
+// Revision 24 Nov: re-verified the entry still writes exactly one word before resubmission.
 import { writeFileSync, mkdirSync } from "node:fs";
 
 // One Word From Your Ex — make.fun bounty
